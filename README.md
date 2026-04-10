@@ -106,4 +106,4 @@ python main.py
 
 ## Sobre el proyecto
 
-Desarrollado como proyecto académico para el curso de Algoritmos y Estructuras de Datos, aplicando teoría de grafos a un caso real con datos geográficos del Perú.
+Desarrollado como proyecto académico para el curso de Programación Competitiva, aplicando el algoritmos de DIJKSTRA y teoría de grafos a un caso real con datos geográficos del Perú.
